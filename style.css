@@ -18,6 +18,7 @@ header{
 nav{
     grid-row: 2 / 3;
     grid-column: 1 / 2;
+    height: max-content;
 }
 
 main{
